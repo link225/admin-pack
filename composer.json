@@ -1,11 +1,11 @@
 {
-    "name": "link/administrator",
+    "name": "MrLink/administrator",
     "description": "the back end administrator tools",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "link",
+            "name": "MrLink",
             "email": "bazaroov@gmail.com"
         }
     ],
@@ -14,7 +14,7 @@
     
     "autoload": {
         "psr-4": {
-            "link\\Master\\":"src/"
+            "Mrlink\\Master\\":"src/"
         }
     }
 }
