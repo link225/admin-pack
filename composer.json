@@ -14,7 +14,7 @@
     
     "autoload": {
         "psr-4": {
-            "Mrlink\\Master\\":"src/"
+            "linking\\Master\\":"src/"
         }
     }
 }

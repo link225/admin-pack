@@ -1,6 +1,6 @@
 <?php
 
-namespace Mrlink\Master;
+namespace linking\Master;
 
 use Illuminate\Support\ServiceProvider;
 
