@@ -10,6 +10,4 @@ Route::get('master', function() {
 
 
 
-
-
 ?>
